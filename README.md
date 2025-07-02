@@ -198,26 +198,18 @@ I'm a self-taught software developer passionate about building scalable solution
   <table cellspacing="4" cellpadding="0" style="border-collapse: collapse;">
     <tr>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://github.com/Murapadev" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label="  alt="GitHub"/>
-        </a>
       </td>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://twitter.com/MurapaDev" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label="  alt="X"/>
-        </a>
       </td>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://www.instagram.com/murapadev/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label="  alt="Instagram"/>
-        </a>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://murapa.me" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label="  alt="Website"/>
-        </a>
       </td>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
         <a href="mailto:flyawaytosky2025@gmail.com" target="_blank" rel="noreferrer">
@@ -225,9 +217,7 @@ I'm a self-taught software developer passionate about building scalable solution
         </a>
       </td>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://telegram.me/murapadev" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label="  alt="Telegram"/>
-        </a>
       </td>
     </tr>
   </table>
