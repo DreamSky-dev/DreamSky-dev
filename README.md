@@ -181,12 +181,6 @@ I'm a self-taught software developer passionate about building scalable solution
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical" alt="murapadev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
