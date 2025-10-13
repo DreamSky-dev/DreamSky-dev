@@ -186,36 +186,6 @@ I'm a self-taught software developer passionate about building scalable solution
   <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
 </div>
 
-## 📬 Connect with Me
-
-<div align="center" style="display: inline-block; padding: 8px; border: 1px solid #444; border-radius: 12px;">
-  <table cellspacing="4" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-          <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label="  alt="GitHub"/>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-          <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label="  alt="X"/>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-          <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label="  alt="Instagram"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-          <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label="  alt="Website"/>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="mailto:flyawaytosky2025@gmail.com" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label="  alt="Email"/>
-        </a>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-          <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label="  alt="Telegram"/>
-      </td>
-    </tr>
-  </table>
-</div>
 More actions
 
 <!-- Fun Gimmicks -->
