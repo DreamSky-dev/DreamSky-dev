@@ -176,19 +176,7 @@ I'm a software developer passionate about building scalable solutions and transf
     </td>
  </tr>
 </table>
-<br><br>
-
-
+<br>
 </div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
-</div>
-
-More actions
-
-<!-- Fun Gimmicks -->
-
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
