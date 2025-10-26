@@ -3,7 +3,7 @@
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
 ## About Me
-I'm a self-taught software developer passionate about building scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I love using technology to solve real-world problems and unlock new possibilities.
+I'm a software developer passionate about building scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I love using technology to solve real-world problems and unlock new possibilities.
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
